@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohit7070
 - 👀 I’m interested in playing games. 
-- 🌱 I’m currently learning html. 
+- 🌱 I’m currently working as a golang Developer. 
 - 📫 How to reach me:7988414352.
 
 <!---
